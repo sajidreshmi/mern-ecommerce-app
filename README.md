@@ -18,10 +18,6 @@
 -   PayPal / credit card integration
 -   Database seeder (products & users)
 
-## Note on Issues
-
-Please do not post issues here that are related to your own code when taking the course. Add those in the Udemy Q/A. If you clone THIS repo and there are issues, then you can submit
-
 ## Usage
 
 ### ES Modules in Node
@@ -69,8 +65,6 @@ npm run server
 cd frontend
 npm run build
 ```
-
-There is a Heroku postbuild script, so if you push to Heroku, no need to build manually for deployment to Heroku
 
 ### Seed Database
 
